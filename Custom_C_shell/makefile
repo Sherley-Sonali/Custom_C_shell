@@ -1,0 +1,1 @@
+gcc display.c reveal.c seek_c.c procl.c comm_log.c command.c main.c && ./a.out
